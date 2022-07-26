@@ -1,0 +1,902 @@
+[
+  {
+    "status": "unsolved",
+    "problem_no": "1757",
+    "title": "Recyclable and Low Fat Products",
+    "solution": "n/a",
+    "acceptance": "94%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1741",
+    "title": "Find Total Time Spent by Each Employee",
+    "solution": "n/a",
+    "acceptance": "91.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2235",
+    "title": "Add Two Integers",
+    "solution": "n/a",
+    "acceptance": "91.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1929",
+    "title": "Concatenation of Array",
+    "solution": "n/a",
+    "acceptance": "91.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1920",
+    "title": "Build Array from Permutation",
+    "solution": "n/a",
+    "acceptance": "91.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1693",
+    "title": "Daily Leads and Partners",
+    "solution": "n/a",
+    "acceptance": "91.4%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2339",
+    "title": "All the Matches of the League",
+    "solution": "n/a",
+    "acceptance": "91.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1378",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "solution": "n/a",
+    "acceptance": "91.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1683",
+    "title": "Invalid Tweets",
+    "solution": "n/a",
+    "acceptance": "91.1%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1303",
+    "title": "Find the Team Size",
+    "solution": "n/a",
+    "acceptance": "90.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1795",
+    "title": "Rearrange Products Table",
+    "solution": "n/a",
+    "acceptance": "90.8%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1119",
+    "title": "Remove Vowels from a String",
+    "solution": "n/a",
+    "acceptance": "90.8%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1350",
+    "title": "Students With Invalid Departments",
+    "solution": "n/a",
+    "acceptance": "90.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1480",
+    "title": "Running Sum of 1d Array",
+    "solution": "n/a",
+    "acceptance": "90.4%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1587",
+    "title": "Bank Account Summary II",
+    "solution": "n/a",
+    "acceptance": "90.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1571",
+    "title": "Warehouse Manager",
+    "solution": "n/a",
+    "acceptance": "90.1%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1581",
+    "title": "Customer Who Visited but Did Not Make Any Transactions",
+    "solution": "n/a",
+    "acceptance": "90.1%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1821",
+    "title": "Find Customers With Positive Revenue this Year",
+    "solution": "n/a",
+    "acceptance": "89.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1108",
+    "title": "Defanging an IP Address",
+    "solution": "n/a",
+    "acceptance": "89.2%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2011",
+    "title": "Final Value of Variable After Performing Operations",
+    "solution": "n/a",
+    "acceptance": "89.1%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2236",
+    "title": "Root Equals Sum of Children",
+    "solution": "n/a",
+    "acceptance": "89%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1672",
+    "title": "Richest Customer Wealth",
+    "solution": "n/a",
+    "acceptance": "88.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2114",
+    "title": "Maximum Number of Words Found in Sentences",
+    "solution": "n/a",
+    "acceptance": "88.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1470",
+    "title": "Shuffle the Array",
+    "solution": "n/a",
+    "acceptance": "88.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2160",
+    "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+    "solution": "n/a",
+    "acceptance": "88.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1623",
+    "title": "All Valid Triplets That Can Represent a Country",
+    "solution": "n/a",
+    "acceptance": "88.1%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1512",
+    "title": "Number of Good Pairs",
+    "solution": "n/a",
+    "acceptance": "88.1%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "771",
+    "title": "Jewels and Stones",
+    "solution": "n/a",
+    "acceptance": "87.8%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1603",
+    "title": "Design Parking System",
+    "solution": "n/a",
+    "acceptance": "87.8%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1853",
+    "title": "Convert Date Format",
+    "solution": "n/a",
+    "acceptance": "87.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1431",
+    "title": "Kids With the Greatest Number of Candies",
+    "solution": "n/a",
+    "acceptance": "87.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1379",
+    "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+    "solution": "n/a",
+    "acceptance": "87.2%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1281",
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "solution": "n/a",
+    "acceptance": "86.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1365",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "solution": "n/a",
+    "acceptance": "86.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1678",
+    "title": "Goal Parser Interpretation",
+    "solution": "n/a",
+    "acceptance": "85.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1720",
+    "title": "Decode XORed Array",
+    "solution": "n/a",
+    "acceptance": "85.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1342",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "solution": "n/a",
+    "acceptance": "85.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1313",
+    "title": "Decompress Run-Length Encoded List",
+    "solution": "n/a",
+    "acceptance": "85.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1528",
+    "title": "Shuffle String",
+    "solution": "n/a",
+    "acceptance": "85.8%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1165",
+    "title": "Single-Row Keyboard",
+    "solution": "n/a",
+    "acceptance": "85.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1389",
+    "title": "Create Target Array in the Given Order",
+    "solution": "n/a",
+    "acceptance": "85.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2194",
+    "title": "Cells in a Range on an Excel Sheet",
+    "solution": "n/a",
+    "acceptance": "85.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2026",
+    "title": "Low-Quality Problems",
+    "solution": "n/a",
+    "acceptance": "85.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1777",
+    "title": "Product's Price for Each Store",
+    "solution": "n/a",
+    "acceptance": "85.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "938",
+    "title": "Range Sum of BST",
+    "solution": "n/a",
+    "acceptance": "85.2%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1221",
+    "title": "Split a String in Balanced Strings",
+    "solution": "n/a",
+    "acceptance": "84.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1859",
+    "title": "Sorting the Sentence",
+    "solution": "n/a",
+    "acceptance": "84.4%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1773",
+    "title": "Count Items Matching a Rule",
+    "solution": "n/a",
+    "acceptance": "84.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1484",
+    "title": "Group Sold Products By The Date",
+    "solution": "n/a",
+    "acceptance": "84.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1656",
+    "title": "Design an Ordered Stream",
+    "solution": "n/a",
+    "acceptance": "84.2%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2325",
+    "title": "Decode the Message",
+    "solution": "n/a",
+    "acceptance": "84.2%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1486",
+    "title": "XOR Operation in an Array",
+    "solution": "n/a",
+    "acceptance": "84.1%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1421",
+    "title": "NPV Queries",
+    "solution": "n/a",
+    "acceptance": "84%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1588",
+    "title": "Sum of All Odd Length Subarrays",
+    "solution": "n/a",
+    "acceptance": "83.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1791",
+    "title": "Find Center of Star Graph",
+    "solution": "n/a",
+    "acceptance": "83.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1565",
+    "title": "Unique Orders and Customers Per Month",
+    "solution": "n/a",
+    "acceptance": "83.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1251",
+    "title": "Average Selling Price",
+    "solution": "n/a",
+    "acceptance": "83.4%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1173",
+    "title": "Immediate Food Delivery I",
+    "solution": "n/a",
+    "acceptance": "83.4%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1688",
+    "title": "Count of Matches in Tournament",
+    "solution": "n/a",
+    "acceptance": "83%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "760",
+    "title": "Find Anagram Mappings",
+    "solution": "n/a",
+    "acceptance": "82.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1290",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "solution": "n/a",
+    "acceptance": "82.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1614",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "solution": "n/a",
+    "acceptance": "82.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1179",
+    "title": "Reformat Department Table",
+    "solution": "n/a",
+    "acceptance": "82.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2037",
+    "title": "Minimum Number of Moves to Seat Everyone",
+    "solution": "n/a",
+    "acceptance": "82.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2006",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "solution": "n/a",
+    "acceptance": "82.2%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1069",
+    "title": "Product Sales Analysis II",
+    "solution": "n/a",
+    "acceptance": "82.1%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1890",
+    "title": "The Latest Login in 2020",
+    "solution": "n/a",
+    "acceptance": "81.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1662",
+    "title": "Check If Two String Arrays are Equivalent",
+    "solution": "n/a",
+    "acceptance": "81.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1684",
+    "title": "Count the Number of Consistent Strings",
+    "solution": "n/a",
+    "acceptance": "81.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2220",
+    "title": "Minimum Bit Flips to Convert Number",
+    "solution": "n/a",
+    "acceptance": "81.8%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1469",
+    "title": "Find All The Lonely Nodes",
+    "solution": "n/a",
+    "acceptance": "81.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "709",
+    "title": "To Lower Case",
+    "solution": "n/a",
+    "acceptance": "81.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1816",
+    "title": "Truncate Sentence",
+    "solution": "n/a",
+    "acceptance": "81.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "627",
+    "title": "Swap Salary",
+    "solution": "n/a",
+    "acceptance": "81.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2103",
+    "title": "Rings and Rods",
+    "solution": "n/a",
+    "acceptance": "81.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2315",
+    "title": "Count Asterisks",
+    "solution": "n/a",
+    "acceptance": "81.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1965",
+    "title": "Employees With Missing Information",
+    "solution": "n/a",
+    "acceptance": "81.4%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "613",
+    "title": "Shortest Distance in a Line",
+    "solution": "n/a",
+    "acceptance": "81.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1832",
+    "title": "Check if the Sentence Is Pangram",
+    "solution": "n/a",
+    "acceptance": "81.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1913",
+    "title": "Maximum Product Difference Between Two Pairs",
+    "solution": "n/a",
+    "acceptance": "81.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2082",
+    "title": "The Number of Rich Customers",
+    "solution": "n/a",
+    "acceptance": "80.8%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1068",
+    "title": "Product Sales Analysis I",
+    "solution": "n/a",
+    "acceptance": "80.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1534",
+    "title": "Count Good Triplets",
+    "solution": "n/a",
+    "acceptance": "80.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2176",
+    "title": "Count Equal and Divisible Pairs in an Array",
+    "solution": "n/a",
+    "acceptance": "80.3%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "804",
+    "title": "Unique Morse Code Words",
+    "solution": "n/a",
+    "acceptance": "80.2%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "832",
+    "title": "Flipping an Image",
+    "solution": "n/a",
+    "acceptance": "80%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1213",
+    "title": "Intersection of Three Sorted Arrays",
+    "solution": "n/a",
+    "acceptance": "80%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1021",
+    "title": "Remove Outermost Parentheses",
+    "solution": "n/a",
+    "acceptance": "80%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1967",
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "solution": "n/a",
+    "acceptance": "79.9%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1844",
+    "title": "Replace All Digits with Characters",
+    "solution": "n/a",
+    "acceptance": "79.8%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "511",
+    "title": "Game Play Analysis I",
+    "solution": "n/a",
+    "acceptance": "79.8%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1789",
+    "title": "Primary Department for Each Employee",
+    "solution": "n/a",
+    "acceptance": "79.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1661",
+    "title": "Average Time of Process per Machine",
+    "solution": "n/a",
+    "acceptance": "79.7%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "557",
+    "title": "Reverse Words in a String III",
+    "solution": "n/a",
+    "acceptance": "79.6%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1572",
+    "title": "Matrix Diagonal Sum",
+    "solution": "n/a",
+    "acceptance": "79.5%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2351",
+    "title": "First Letter to Appear Twice",
+    "solution": "n/a",
+    "acceptance": "79.4%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1266",
+    "title": "Minimum Time Visiting All Points",
+    "solution": "n/a",
+    "acceptance": "79.2%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1309",
+    "title": "Decrypt String from Alphabet to Integer Mapping",
+    "solution": "n/a",
+    "acceptance": "79.1%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "1323",
+    "title": "Maximum 69 Number",
+    "solution": "n/a",
+    "acceptance": "79%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  },
+  {
+    "status": "unsolved",
+    "problem_no": "2331",
+    "title": "Evaluate Boolean Binary Tree",
+    "solution": "n/a",
+    "acceptance": "79%",
+    "difficulty": "Easy",
+    "frequency": "20"
+  }
+]
