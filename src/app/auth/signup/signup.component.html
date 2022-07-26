@@ -1,0 +1,75 @@
+<div class="container">
+  <div class="row d-flex justify-content-center align-items-center h-100">
+    <div class="col-md-6">
+      <div class="card shadow-lg m-3">
+        <div class="card-body">
+          <div class="d-flex flex-column">
+            <div class="text-center mb-5">
+              <img class="center" src="/assets/images/leetcode.svg" />
+            </div>
+            <form #signup="ngForm" (ngSubmit)="onClickSignup(signup.value)">
+              <p class="d-none">Email input</p>
+              <div class="form-outline mb-2">
+                <input type="email" id="email" name="email" class="form-control" ngModel/>
+                <label class="form-label" for="email">Email</label>
+              </div>
+
+              <p class="d-none">Name input</p>
+              <div class="form-outline mb-2">
+                <input type="name" id="name" name="name" class="form-control" ngModel/>
+                <label class="form-label" for="name">Name</label>
+              </div>
+
+              <p class="d-none">Password input</p>
+              <div class="form-outline mb-2">
+                <input type="password" id="password" name="password" class="form-control" ngModel/>
+                <label class="form-label" for="password">Password</label>
+              </div>
+
+              <p class="d-none">Confirm Password input</p>
+              <div class="form-outline mb-2">
+                <input type="password" id="confirm-password" name="confirm-password" class="form-control" ngModel/>
+                <label class="form-label" for="confirm-password">Confirm Password</label>
+              </div>
+
+              <p class="d-none">2 column grid layout for inline styling</p>
+              <div class="row mb-4">
+                <div class="col d-flex justify-content-center">
+                  <p class="d-none">Checkbox</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="remember-me" name="remember-me" ngModel checked/>
+                    <label class="form-check-label" for="remember-me"> I agree with the terms and conditions </label>
+                  </div>
+                </div>
+              </div>
+
+              <p class="d-none">button</p>
+              <input type="submit" class="btn btn-primary btn-block mb-4" value="Sign Up" />
+
+              <p class="d-none">buttons</p>
+              <div class="text-center">
+                <p>Already a member? <a routerLink="/accounts/login" routerLinkActive="active" ariaCurrentWhenActive="page">Login</a></p>
+                <p>or sign up with:</p>
+                <button type="button" class="btn btn-link btn-floating mx-1">
+                  <i class="fab fa-facebook-f"></i>
+                </button>
+
+                <button type="button" class="btn btn-link btn-floating mx-1">
+                  <i class="fab fa-google"></i>
+                </button>
+
+                <button type="button" class="btn btn-link btn-floating mx-1">
+                  <i class="fab fa-twitter"></i>
+                </button>
+
+                <button type="button" class="btn btn-link btn-floating mx-1">
+                  <i class="fab fa-github"></i>
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
