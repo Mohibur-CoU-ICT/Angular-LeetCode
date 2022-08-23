@@ -16,4 +16,9 @@ export class AllProblemsComponent implements OnInit {
     this.all_problems = this.problemService.getAllProblems();
   }
 
+  getProblemRoute(problemTitle: string): string {
+    // replace all whitespaces by hyphen ('-')
+    return problemTitle.replace(/ /g, '-');
+  }
+
 }
