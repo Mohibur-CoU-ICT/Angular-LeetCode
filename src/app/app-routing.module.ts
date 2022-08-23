@@ -6,6 +6,7 @@ import { PageNotFoundComponent } from './auth/page-not-found/page-not-found.comp
 import { SigninComponent } from './auth/signin/signin.component';
 import { ForgotPasswordComponent } from './auth/forgot-password/forgot-password.component';
 import { AllProblemsComponent } from './problemset/all-problems/all-problems.component';
+import { ProblemDescriptionComponent } from './problemset/problem-description/problem-description.component';
 
 const routes: Routes = [
   {
@@ -23,6 +24,10 @@ const routes: Routes = [
   {
     path: 'problemset/all',
     component: AllProblemsComponent
+  },
+  {
+    path: 'problems/:name',
+    component: ProblemDescriptionComponent
   },
   {
     path: '',
