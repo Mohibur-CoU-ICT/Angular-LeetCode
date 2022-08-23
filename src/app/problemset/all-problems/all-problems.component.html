@@ -23,7 +23,7 @@
           </svg>
         </td>
         <td> {{problem.problem_no}} </td>
-        <td> {{problem.title}} </td>
+        <td> <a [routerLink]="'../../problems/'+getProblemRoute(problem.title)">{{problem.title}}</a> </td>
         <td> {{problem.solution}} </td>
         <td> {{problem.acceptance}} </td>
         <td> {{problem.difficulty}} </td>
