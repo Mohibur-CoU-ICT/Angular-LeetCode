@@ -5,7 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { ReactiveFormsModule } from '@angular/forms';
 import { MatTabsModule } from '@angular/material/tabs';
 import { MatIconModule } from '@angular/material/icon';
-import { AngularFontAwesomeModule } from 'angular-font-awesome';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 import { AppComponent } from './app.component';
 import { SignupComponent } from './auth/signup/signup.component';
@@ -29,7 +29,7 @@ import { ProblemDescriptionComponent } from './problemset/problem-description/pr
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    AngularFontAwesomeModule,
+    FontAwesomeModule,
     FormsModule,
     MatTabsModule,
     MatIconModule,
