@@ -1,0 +1,47 @@
+<div class="d-flex">
+  <div>
+    <mat-tab-group animationDuration="0ms">
+      <mat-tab label="Description">
+        Given two strings word1 and word2, return the minimum number of steps required to make word1 and word2 the same.
+        In one step, you can delete exactly one character in either string.
+      </mat-tab>
+      <mat-tab label="Solution">
+
+      </mat-tab>
+      <mat-tab label="Discuss">
+
+      </mat-tab>
+      <mat-tab label="Submissions">
+
+      </mat-tab>
+    </mat-tab-group>
+  </div>
+  <div class="d-flex flex-column">
+    <div class="d-flex justify-content-between">
+      <div>
+        <select>
+          <option *ngFor="let lang of languages" [value]="lang">{{lang}}</option>
+        </select>
+      </div>
+      <div>
+        <button mat-icon-button color="primary" aria-label="Example icon button with a home icon">
+          <i class="fa-solid fa-brackets-curly"></i>
+        </button>
+        <button mat-icon-button color="primary" aria-label="Example icon button with a home icon">
+          <mat-icon>undo</mat-icon>
+        </button>
+        <button mat-icon-button color="accent" aria-label="Example icon button with a menu icon">
+          <mat-icon>settings</mat-icon>
+        </button>
+        <button mat-icon-button color="warn" aria-label="Example icon button with a heart icon">
+          <mat-icon>fullscreen</mat-icon>
+        </button>
+      </div>
+    </div>
+    <div>
+      <textarea rows="20" cols="80">
+
+      </textarea>
+    </div>
+  </div>
+</div>
