@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormControl, FormGroup, Validators } from '@angular/forms';
+import { UntypedFormControl, UntypedFormGroup, Validators } from '@angular/forms';
 import { Route, Router } from '@angular/router';
 
 @Component({
@@ -9,7 +9,7 @@ import { Route, Router } from '@angular/router';
 })
 export class SigninComponent implements OnInit {
 
-  signinForm = new FormGroup({});
+  signinForm = new UntypedFormGroup({});
 
   constructor(private router: Router) { }
 
@@ -22,14 +22,14 @@ export class SigninComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.signinForm = new FormGroup({
-      email: new FormControl('', [Validators.required]),
-      password: new FormControl('', Validators.required),
-      rememberme: new FormControl()
+    this.signinForm = new UntypedFormGroup({
+      email: new UntypedFormControl('', [Validators.required]),
+      password: new UntypedFormControl('', Validators.required),
+      rememberme: new UntypedFormControl()
     });
   }
 
-  onClickSignin(data: FormGroup) {
+  onClickSignin(data: UntypedFormGroup) {
     console.log('this.signinForm.valid ', this.signinForm.valid);
     if (this.signinForm.valid) {
       console.log('data = ', data);
