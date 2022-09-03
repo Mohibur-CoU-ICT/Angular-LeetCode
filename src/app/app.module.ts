@@ -15,6 +15,7 @@ import { SigninComponent } from './auth/signin/signin.component';
 import { ForgotPasswordComponent } from './auth/forgot-password/forgot-password.component';
 import { AllProblemsComponent } from './problemset/all-problems/all-problems.component';
 import { ProblemDescriptionComponent } from './problemset/problem-description/problem-description.component';
+import { CreateProblemComponent } from './problemset/create-problem/create-problem.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { ProblemDescriptionComponent } from './problemset/problem-description/pr
     SigninComponent,
     ForgotPasswordComponent,
     AllProblemsComponent,
-    ProblemDescriptionComponent
+    ProblemDescriptionComponent,
+    CreateProblemComponent
   ],
   imports: [
     BrowserModule,
