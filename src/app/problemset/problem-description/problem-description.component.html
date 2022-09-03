@@ -1,18 +1,39 @@
-<div class="d-flex">
-  <div>
-    <mat-tab-group animationDuration="0ms">
-      <mat-tab label="Description">
-        Given two strings word1 and word2, return the minimum number of steps required to make word1 and word2 the same.
-        In one step, you can delete exactly one character in either string.
+<div class="d-flex w-100 mw-100">
+  <div class="mx-3">
+    <mat-tab-group dynamicHeight="true" animationDuration="0ms">
+      <mat-tab>
+        <ng-template mat-tab-label>
+          <mat-icon class="example-tab-icon">description</mat-icon>
+          Description
+        </ng-template>
       </mat-tab>
       <mat-tab label="Solution">
+        <ng-template mat-tab-label>
+          <i class="fas fa-flask"></i>
+          <!-- <mat-icon class="example-tab-icon">description</mat-icon> -->
+          Solution
+        </ng-template>
+        <div>
 
+        </div>
       </mat-tab>
-      <mat-tab label="Discuss">
-
+      <mat-tab>
+        <ng-template mat-tab-label>
+          <mat-icon class="example-tab-icon">question_answer</mat-icon>
+          Discuss
+        </ng-template>
+        <div>
+          
+        </div>
       </mat-tab>
-      <mat-tab label="Submissions">
+      <mat-tab>
+        <ng-template mat-tab-label>
+          <mat-icon class="example-tab-icon">access_time</mat-icon>
+          Submissions
+        </ng-template>
+        <div>
 
+        </div>
       </mat-tab>
     </mat-tab-group>
   </div>
